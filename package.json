@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.390.0",
+    "dotenv": "^6.2.0",
     "react-native-dotenv": "^0.2.0",
     "express": "^4.16.4",
     "mongoose": "^5.4.5",
